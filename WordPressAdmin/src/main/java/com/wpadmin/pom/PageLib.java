@@ -6,6 +6,11 @@ import com.wpadmin.pages.GeneralSettingsPage;
 import com.wpadmin.pages.LeftMenu;
 import com.wpadmin.pages.LoginPage;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class PageLib {
 
 	private WebDriver driver;

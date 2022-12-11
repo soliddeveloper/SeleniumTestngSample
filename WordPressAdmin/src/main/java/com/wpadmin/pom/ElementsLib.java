@@ -6,6 +6,11 @@ import com.wpadmin.elements.GeneralSettingsElements;
 import com.wpadmin.elements.LeftMenuElements;
 import com.wpadmin.elements.LoginPageElements;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class ElementsLib {
 
 	private WebDriver driver;

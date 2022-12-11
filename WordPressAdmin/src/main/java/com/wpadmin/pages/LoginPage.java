@@ -2,6 +2,11 @@ package com.wpadmin.pages;
 
 import com.wpadmin.elements.LoginPageElements;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class LoginPage {
 
 	private LoginPageElements loginPageElements;

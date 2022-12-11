@@ -2,6 +2,11 @@ package com.wpadmin.pom;
 
 import org.openqa.selenium.WebDriver;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class AppLib {
 
 	private WebDriver driver;

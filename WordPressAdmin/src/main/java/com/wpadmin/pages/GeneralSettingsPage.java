@@ -2,6 +2,11 @@ package com.wpadmin.pages;
 
 import com.wpadmin.elements.GeneralSettingsElements;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class GeneralSettingsPage {
 	private GeneralSettingsElements generalSettingsElements;
 

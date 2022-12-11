@@ -2,6 +2,11 @@ package com.wpadmin.test.config;
 
 import org.testng.annotations.DataProvider;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class LoginDataProvider {
 
 	@DataProvider

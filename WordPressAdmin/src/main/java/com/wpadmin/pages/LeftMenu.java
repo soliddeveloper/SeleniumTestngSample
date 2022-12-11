@@ -2,6 +2,11 @@ package com.wpadmin.pages;
 
 import com.wpadmin.elements.LeftMenuElements;
 
+/**
+ * 
+ * @author Silosha
+ *
+ */
 public class LeftMenu {
 	private LeftMenuElements menuElements;
 
